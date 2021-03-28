@@ -1,0 +1,54 @@
+body{
+	background-color: #AAAA00;
+font-family:   ;
+font-size: 10pt;
+color: red;
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	text-transform: uppercase;
+}
+ul li{
+	display:flex;
+	float: left;
+}
+ul li a{
+	background:#00FF00;
+	border: 3px solid red;
+	padding: 10px 50px;
+	text-decoration: none;
+}
+a:hover{ background-color: red}
+*{margin:1;}
+h1, h2{color: #FF00FF }
+#slika{
+	border-radius: 35px;
+	width:315px;
+	height:315px;}
+#youtube{border-radius: 35px; width:420px; height:315px;}
+
+//Za tabelu
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
