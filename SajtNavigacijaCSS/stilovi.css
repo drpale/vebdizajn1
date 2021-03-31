@@ -1,5 +1,5 @@
 body{
-	background-color: #558B8B;
+	background-color: #005500;
 font-family:   ;
 font-size: 10pt;
 color: DarkBlue;
@@ -20,12 +20,12 @@ ul li a{
 	padding: 10px 50px;
 	text-decoration: none;
 }
-a:hover{ background-color: red}
-*{margin:1;}
-h1, h2{color: #FF00FF }
+a:hover{ background-color: DarkBlue}
+*{margin:5;}
+h1, h2{color: #0055BB }
 #slika{
-	border-radius: 35px;
-	width:315px;
+	border-radius: 5px;
+	width:420px;
 	height:315px;}
 #youtube{border-radius: 35px; width:420px; height:315px;}
 
