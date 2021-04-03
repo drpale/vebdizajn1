@@ -1,8 +1,4 @@
-﻿<!DOCTYPE html>
-<html>
-<body>
-
-<?php
+﻿<?php
 class Car {
   public $color;
   public $model;
@@ -15,12 +11,9 @@ class Car {
   }
 }
 
-$myCar = new Car("black", "Volvo");
+$myCar = new Car("<b>black</b>", "Volvo");
 echo $myCar -> message();
 echo "<br>";
 $myCar = new Car("red", "Toyota");
 echo $myCar -> message();
 ?>
-
-</body>
-</html>

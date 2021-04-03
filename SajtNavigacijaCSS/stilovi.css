@@ -19,10 +19,10 @@ ul li a{
 	border: 3px solid red;
 	padding: 10px 50px;
 	text-decoration: none;
-	border-radius: 15px;
+	border-radius: 10px;
 }
 a:hover{ background-color: DarkBlue}
-*{margin:5;}
+*{margin:1;}
 h1, h2{color: #0055BB }
 #slika{
 	border-radius: 5px;
