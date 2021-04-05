@@ -16,14 +16,14 @@ ul li{
 }
 ul li a{
 	background:#00FF00;
-	border: 3px solid red;
+	border: 3px solid #0000FF;
 	padding: 10px 50px;
 	text-decoration: none;
 	border-radius: 10px;
 }
 a:hover{ background-color: DarkBlue}
 *{margin:1;}
-h1, h2{color: #0055BB }
+h1, h2{color: #FFFFFF }
 #slika{
 	border-radius: 5px;
 	width:420px;
